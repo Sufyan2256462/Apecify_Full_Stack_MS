@@ -1,0 +1,10 @@
+/* Reset default styles for dashboard */
+body {
+  margin: 0;
+  font-family: 'Roboto', 'Helvetica', 'Arial', sans-serif;
+  background-color: #f4f6fa;
+}
+
+#root {
+  min-height: 100vh;
+}
